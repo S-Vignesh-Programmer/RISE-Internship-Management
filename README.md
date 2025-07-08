@@ -2,9 +2,10 @@
 
 A responsive, Student Management Dashboard built using  **React.js**, and **TailwindCss**, **Vite**,integrated with smart features like analytics, performance tracking, and real-time student status management.
 
+[Live Link]: rise-management.netlify.app
 ---
 
-[Live Link]: rise-management.netlify.app
+
 
 ## 🔥 Features
 
