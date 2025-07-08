@@ -4,6 +4,8 @@ A responsive, Student Management Dashboard built using  **React.js**, and **Tail
 
 ---
 
+[Live Link]: rise-management.netlify.app
+
 ## 🔥 Features
 
 -  **Dashboard Overview**: View total students, active status, average marks, and attendance.
@@ -17,10 +19,10 @@ A responsive, Student Management Dashboard built using  **React.js**, and **Tail
 ---
 
 ## 🧑‍💻 Tech Stack
-  React
-  TailwindCss
-  Vite
-  Responsive Design
+  React,
+  TailwindCss,
+  Vite,
+  Responsive Design,
 
 ---
 
@@ -48,14 +50,10 @@ A responsive, Student Management Dashboard built using  **React.js**, and **Tail
 ## 🧾 How to Run Locally
 
 ```bash
-# Backend
-cd backend
-mvn spring-boot:run
 
-# Frontend
+git clone https://github.com/S-Vignesh-Programmer/RISE-Internship-Management
+
 cd frontend
-npm install
-npm start
 
 2. Install Dependencies
 
