@@ -5,7 +5,7 @@ A responsive, Student Management Dashboard built using  **React.js**, and **Tail
 
 ---
 
-Live Link: rise-management.netlify.app
+Live Link:(https://rise-management.netlify.app/)
 
 ## 🔥 Features
 
